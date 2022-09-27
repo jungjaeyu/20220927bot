@@ -20,18 +20,18 @@ limitations under the License.
 import os
 
 # default language ['en'|'ko'|'ja']
-DEFAULT_LANG = 'ja'
+DEFAULT_LANG = 'ko'
 
 # account
-ADMIN_ACCOUNT = "admin@xxx.com"
-DOMAIN_ID = 0
+ADMIN_ACCOUNT = "jj.yu@pt.lwba.kr"
+DOMAIN_ID = 137166
 
 # api
-API_ID = "kr1EHxxxxfJVz"
-SERVER_CONSUMER_KEY = "To8SnC7sxxxxxjqXZhO"
+API_ID = "kr1XgFBRVftEy"
+SERVER_CONSUMER_KEY = "VAEQusq2JXbfeBmYnk2n"
 
-SERVER_ID = "96460cc1e778402xxxxxfe35fa97ce76"
-SECRET_KEY_NAME = "private_201xxxxx164308.key"
+SERVER_ID = "da4d7433af3f4e09954682e17f2a2f4e"
+SECRET_KEY_NAME = "private_20220927100231.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://[Heroku app name].herokuapp.com/"
+LOCAL_ADDRESS = "https://20220927bot.herokuapp.com/"
