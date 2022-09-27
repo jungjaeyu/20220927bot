@@ -35,3 +35,10 @@ SECRET_KEY_NAME = "private_20220927100231.key"
 
 # LOCAL ADDRESS
 LOCAL_ADDRESS = "https://20220927bot.herokuapp.com/"
+
+# DB config
+DB_HOST = "ec2-3-229-165-146.compute-1.amazonaws.com"
+DB_NAME = "d1jgifeu6fuutp"
+DB_USER = "lpchckkhezcvko"
+DB_PORT = "5432"
+DB_PASSWORD = "138bde22e4a04bee613b49274b757d25c2fc92b0a2d009912564ebbe2187b859"
